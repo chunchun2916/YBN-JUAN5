@@ -1,0 +1,2 @@
+# YBN-JUAN5
+联想X1C6th&amp;T470s的OC引导EFI
